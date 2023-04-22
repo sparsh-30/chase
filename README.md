@@ -3,4 +3,5 @@ Detective Chase is one of the most respected detectives in the city. He has a re
 ### Features
 - Users can sign-in or log-in with their own username.
 - Puzzle based around a central theme.
-- User progress saved
+- 5 Interesting puzzles to solve.
+- User progress saved.
